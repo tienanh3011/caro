@@ -33,4 +33,5 @@ namespace Tic_tac_toe
             Console.WriteLine("  {0}  |  {1}  |  {2} ", getplayerchar(board[7]), getplayerchar(board[8]), getplayerchar(board[9]));
         }
     }
+    //ssssssdasd
 }
